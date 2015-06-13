@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">APKShare</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_icon_description">Application icon</string>
+    <string name="share_apk_dialog_title">Share APK</string>
+
+    <string name="app_size_b">%1$.2f B</string>
+    <string name="app_size_kib">%1$.2f KiB</string>
+    <string name="app_size_mib">%1$.2f MiB</string>
+    <string name="app_size_gib">%1$.2f GiB</string>
+</resources>
